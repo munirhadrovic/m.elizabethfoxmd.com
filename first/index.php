@@ -92,7 +92,8 @@
 		    <h1><img src="img/logo.png" alt="LOGO"></h1>
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
-		    <h1 style="color:black;">Mobile Site<a href="http://elizabethfoxmd.com/" rel="external">  Clasic Site</a></h1>
+
+            <h1 style="color:black;">Powered by <a href="http://mobilegrows.com/">MobileGrows</a>|<a href="http://elizabethfoxmd.com/" rel="external">  Desktop Site</a></h1>
 		</div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
